@@ -1,0 +1,4 @@
+repository "CirculosMagicosMatematicos@RokiroCMD@cloud"
+  path "/"
+    smartbranch "/main/01-12-03-24/MVP 28-03-2024/V2-27-03-2024/Segunda revision"      
+     
